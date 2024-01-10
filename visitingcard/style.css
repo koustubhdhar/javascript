@@ -1,0 +1,58 @@
+body{
+    margin: 0%;
+    padding: 0px;
+}
+.box{
+    height: 330px;
+    width: 81%;
+    position: relative;
+    border: solid 5px black;
+    margin: 160px;
+}
+.box1{
+    height: 171px;
+    width: 341px;
+    border: solid 4px black;
+    position: absolute;
+    margin: 70px;
+    left: 35px;
+
+}
+
+.box1 div{
+    margin: 20px;
+    padding: 10px;
+}
+.form1 {    
+    margin: 0px;
+    padding: 23px;
+}
+.btn{
+    margin: 252px;
+}
+.btn1{
+    height: 33px;
+    font-size: medium;
+    background: bottom;
+    width: 65px;
+}
+/* box2*/
+.box2{
+    height: 177px;
+    width: 412px;
+    border: solid 4px black;
+    position: absolute;
+    margin: 0;
+    left: 736px;
+    top: 77px;
+}
+
+.box2 div{
+    margin: 20px;
+    padding: 10px;
+}
+.form2 {    
+    margin: 0px;
+    padding: 11px;
+}
+
