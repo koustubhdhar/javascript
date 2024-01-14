@@ -1,0 +1,8 @@
+.details{
+    border: 5px solid;
+    width: 256px;
+    height: 230px;
+    display: flex;
+    flex-flow: column;
+    flex-wrap: wrap;
+}
